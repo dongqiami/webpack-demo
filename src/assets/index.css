@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: red;
+}
+
+.a77 {
+  width: 100px;
+  height: 100px;
+  background-color: antiquewhite;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
